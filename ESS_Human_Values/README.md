@@ -1,0 +1,4 @@
+#ESS Human Values Survey
+This repo consists of the R markdown file, its pdf output and our data set in csv format. The data set was downloaded from https://www.europeansocialsurvey.org/data/themes.html?t=values. Due to the amount of data in this survey, we only used data from selected countries and only from the first and last rounds of the survey. This was done directly from the website with these parameters which made it easier for data cleaning. After the data set was obtained from the url, it was put into the ESS_Human_Values folder and then used for analysis. 
+
+[IMPORTANT] RStudio Cloud must be used to obtain the data. Due to many technical difficulties experienced in this project, ultimately the Cloud version of Rstudio was used which did not make much difference for analysis but made a difference in the file path needed to load data and images. 
