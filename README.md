@@ -8,5 +8,6 @@ This was done directly from the website with these parameters which made it easi
   To run this program, please download the entire ESS folder and load into RStudio cloud. Within this folder, you can load the dataset into the R environment by running the datacleaning.r file contained in ESS_Human_Values/scripts. 
   After this is done, you can then run the markdown file located at ESS_Human_Values/outputs/paper.
 
+[Disclaimer] For some reason, RStudio cannot compile cross referencing to our graphs. We used the correct referencing method and I have included the code in the corresponding markdown file, but the pdf shows R is not recognizing the ID of the plot we want to reference. 
 
 Authors of this paper: Avinash Dindial, James Richards, Varun Vijay. 
