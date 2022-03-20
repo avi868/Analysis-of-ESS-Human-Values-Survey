@@ -5,8 +5,10 @@ This was done directly from the website with these parameters which made it easi
 
 
 [IMPORTANT] RStudio Cloud must be used to obtain the data. Due to many technical difficulties experienced in this project, ultimately the Cloud version of Rstudio was used which did not make much difference for analysis but made a difference in the file path needed to load data and images. Due to this, running the markdown file on desktop may result in a different file paths from the one we used in our code which may cause the compilation to halt. 
-  To run this program, please download the entire ESS folder and load into RStudio cloud. Within this folder, you can load the dataset into the R environment by running the datacleaning.r file contained in ESS_Human_Values/scripts. 
-  After this is done, you can then run the markdown file located at ESS_Human_Values/outputs/paper.
+  >To run this program, please download the entire ESS folder from github and load into RStudio cloud. Within this folder, you can load the dataset into the R environment by running   the datacleaning.r file contained in ESS_Human_Values/scripts. 
+  >After this is done, you can then run the markdown file located at ESS_Human_Values/outputs/paper.
+  >csv file located at ESS_Human_Values/inputs/data
+  >Bibtex file located at ESS_Human_Values/outputs/paper
 
 [Disclaimer] For some reason, RStudio cannot compile cross referencing to our graphs. We used the correct referencing method and I have included the code in the corresponding markdown file, but the pdf shows R is not recognizing the ID of the plot we want to reference. 
 
